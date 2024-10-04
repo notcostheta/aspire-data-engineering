@@ -5,6 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
 from pathlib import Path
+import json
 
 
 def load_excel_data(file_path, sheet_name, skiprows=0):
@@ -81,6 +82,23 @@ def calculate_market_cap(row, shares):
     }
 
 
+def parse_json_payload(payload):
+    """
+    Parse JSON payload and extract transaction_type and amount.
+
+    Parameters:
+    - payload (str): JSON payload as a string.
+
+    Returns:
+    - tuple: (transaction_type, amount)
+    """
+    try:
+        data = json.loads(payload)
+        return data.get("transaction_type"), data.get("amount")
+    except json.JSONDecodeError:
+        return None, None
+
+
 def main():
     print("Starting main function")
     # Define file paths and sheet names
@@ -133,6 +151,12 @@ def main():
 
     transaction_tab = load_excel_data(excel_file, transaction_tab_sheet)
     if transaction_tab is not None:
+        # Parse JSON payload and add new columns
+        transaction_tab[["transaction_type", "amount"]] = (
+            transaction_tab["payload"].apply(parse_json_payload).tolist()
+        )
+        # Remove the original 'payload' column
+        transaction_tab = transaction_tab.drop(columns=["payload"])
         save_to_csv(transaction_tab, data_path / "transaction_tab.csv")
 
     # Load the data for analysis
