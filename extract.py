@@ -182,6 +182,14 @@ def main():
         ["Market Cap A", "Market Cap B"]
     ].mean()
 
+    # Add a column for the date (month and year)
+    monthly_avg_market_cap["Date"] = monthly_avg_market_cap.index.strftime("%Y-%m")
+
+    # Reorder columns to have Date first
+    monthly_avg_market_cap = monthly_avg_market_cap[
+        ["Date", "Market Cap A", "Market Cap B"]
+    ]
+
     # Calculate daily percentage change in stock price
     stock_prices["Stock A % Change"] = stock_prices["Stock A"].pct_change() * 100
     stock_prices["Stock B % Change"] = stock_prices["Stock B"].pct_change() * 100
