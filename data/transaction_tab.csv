@@ -1,250 +1,250 @@
-account_id,transaction_id,transaction_date,transaction_type,amount
-520,27,2019-04-01,transfer,20000
-482,28,2019-04-01,card,75000
-241,30,2019-04-02,transfer,15000
-297,31,2019-04-02,card,10000
-145,32,2019-04-03,transfer,10000
-181,33,2019-04-04,card,5000
-347,34,2019-04-04,transfer,47000
-222,36,2019-04-05,card,11000
-246,37,2019-04-10,transfer,30000
-565,38,2019-04-11,card,75000
-579,40,2019-04-12,transfer,50000
-543,41,2019-04-12,card,60000
-214,42,2019-04-12,transfer,35000
-210,43,2019-04-12,card,3000
-210,44,2019-04-12,transfer,4000
-241,45,2019-04-15,card,10000
-363,47,2019-04-15,transfer,50000
-562,49,2019-04-15,card,10000
-564,51,2019-04-17,transfer,15000
-278,52,2019-04-17,card,30000
-561,53,2019-04-17,transfer,30000
-688,54,2019-04-17,card,50000
-225,55,2019-04-18,transfer,50000
-726,57,2019-04-22,card,2000
-1067,58,2019-04-22,transfer,30000
-935,59,2019-04-23,card,50000
-726,61,2019-04-23,transfer,600
-278,62,2019-04-23,card,10000
-740,63,2019-04-23,transfer,40000
-210,66,2019-04-23,card,3000
-944,67,2019-04-23,transfer,15000
-827,68,2019-04-23,card,30000
-564,69,2019-04-24,transfer,15000
-726,70,2019-04-24,card,20000
-222,75,2019-04-25,transfer,48974
-1220,76,2019-04-25,card,10000
-1137,79,2019-04-25,transfer,15000
-1079,81,2019-04-26,card,15000
-1087,83,2019-04-29,transfer,400000
-726,85,2019-04-29,card,1000
-411,86,2019-04-29,transfer,30000
-941,88,2019-04-29,card,6000
-1020,89,2019-04-29,transfer,1400
-1137,91,2019-04-30,card,15000
-1074,93,2019-04-30,transfer,50000
-1027,97,2019-05-02,card,400000
-1289,99,2019-05-02,transfer,350000
-1143,100,2019-05-02,card,350000
-1349,104,2019-05-02,transfer,36000
-1080,105,2019-05-02,card,300000
-1330,106,2019-05-02,transfer,15000
-877,107,2019-05-03,card,25000
-1534,108,2019-05-03,transfer,75000
-236,109,2019-05-03,card,500
-1156,110,2019-05-06,transfer,2500
-1220,111,2019-05-06,card,10000
-1234,112,2019-05-06,transfer,3000
-1546,114,2019-05-07,card,50000
-1349,116,2019-05-08,transfer,25000
-1161,117,2019-05-08,card,10000
-162,369,2019-04-08,transfer,7000
-2177,437,2019-04-04,card,30000
-1334,440,2019-05-08,transfer,10000
-531,441,2019-05-08,card,20000
-1161,442,2019-05-09,transfer,25000
-1407,443,2019-05-09,card,30000
-1234,445,2019-05-10,transfer,27000
-1863,446,2019-05-10,card,30000
-1494,447,2019-05-13,transfer,400000
-2248,448,2019-05-10,card,3200
-1600,450,2019-05-13,transfer,20000
-278,451,2019-05-13,card,20000
-1876,452,2019-05-13,transfer,20000
-2075,453,2019-05-13,card,60000
-1294,454,2019-05-13,transfer,20000
-1804,455,2019-05-13,card,1500
-1491,456,2019-05-14,transfer,50000
-467,457,2019-05-14,card,60000
-726,458,2019-05-14,transfer,20000
-161,459,2019-05-14,card,12000
-828,460,2019-05-14,transfer,30000
-1600,461,2019-05-15,card,20000
-1334,462,2019-05-15,transfer,5000
-1632,463,2019-05-15,card,100000
-2104,464,2019-05-15,transfer,15000
-1040,465,2019-05-15,card,3000
-2075,466,2019-05-16,transfer,30000
-2248,467,2019-05-16,card,1800
-1920,468,2019-05-16,transfer,10000
-1876,469,2019-05-16,card,10000
-2440,470,2019-05-16,transfer,50000
-389,471,2019-05-16,card,75000
-2382,473,2019-05-17,transfer,40000
-216,474,2019-05-17,card,75000
-1020,476,2019-05-17,transfer,70000
-1876,481,2019-05-21,card,50000
-2692,484,2019-05-22,transfer,25000
-2621,485,2019-05-22,card,5500
-2344,486,2019-05-22,transfer,65000
-2857,487,2019-05-24,card,50000
-990,488,2019-05-27,transfer,5000
-2219,489,2019-05-27,card,50000
-1659,491,2019-05-27,transfer,5000
-1126,492,2019-05-27,card,4000
-2430,495,2019-05-27,transfer,25000
-2049,496,2019-05-27,card,20000
-562,497,2019-05-27,transfer,45000
-1920,499,2019-05-27,card,10000
-1923,501,2019-05-27,transfer,5000
-1294,504,2019-05-28,card,10000
-726,505,2019-05-28,transfer,100000
-2516,506,2019-05-28,card,14000
-2258,507,2019-05-28,transfer,125000
-820,508,2019-05-28,card,35000
-2890,509,2019-05-29,transfer,500000
-1857,512,2019-05-29,card,5000
-2941,513,2019-05-29,transfer,50000
-3250,514,2019-05-30,card,300000
-2153,516,2019-05-30,transfer,10000
-2890,517,2019-05-29,card,55000
-2600,518,2019-05-30,transfer,20000
-2584,521,2019-05-30,card,150000
-2516,522,2019-05-31,transfer,3000000
-3225,525,2019-05-31,card,5000000
-2886,526,2019-05-31,transfer,80000
-559,527,2019-05-31,card,6000
-3225,531,2019-06-03,transfer,550000
-2890,532,2019-06-03,card,95000
-2258,534,2019-06-03,transfer,200000
-3004,537,2019-06-04,card,450000
-577,540,2019-06-04,transfer,20000
-2996,541,2019-06-04,card,40000
-499,547,2019-06-07,transfer,50000
-1745,549,2019-06-07,card,5000
-3453,552,2019-06-10,transfer,15000
-2175,553,2019-06-10,card,18000
-3427,554,2019-06-10,transfer,40000
-2733,555,2019-06-10,card,16000
-3458,557,2019-06-11,transfer,100000
-4451,559,2019-06-11,card,80000
-3376,560,2019-06-11,transfer,50000
-3967,561,2019-06-11,card,8000
-1775,562,2019-06-12,transfer,200000
-3548,563,2019-06-12,card,200000
-2530,567,2019-06-12,transfer,70000
-3134,569,2019-06-12,card,150000
-3296,570,2019-06-13,transfer,40000
-3958,572,2019-06-13,card,30000
-3678,573,2019-06-13,transfer,5000
-2851,575,2019-06-13,card,50000
-4314,576,2019-06-14,transfer,125000
-3737,579,2019-06-14,card,700000
-3006,580,2019-06-14,transfer,7500
-2927,581,2019-06-14,card,10500
-3262,582,2019-06-14,transfer,40000
-2116,584,2019-06-14,card,30000
-2278,585,2019-06-17,transfer,100000
-2278,586,2019-06-17,card,100000
-4430,591,2019-06-17,transfer,1200000
-4973,593,2019-06-17,card,1000000
-3180,595,2019-06-17,transfer,2500000
-2116,596,2019-06-17,card,50000
-1294,597,2019-06-17,transfer,10000
-3967,598,2019-06-17,card,4000
-6566,599,2019-06-17,transfer,1200000
-1031,600,2019-06-17,card,1500000
-1636,601,2019-06-17,transfer,50000
-5307,602,2019-06-17,card,1500000
-3458,603,2019-06-17,transfer,2000000
-2623,605,2019-06-18,card,2100000
-5565,606,2019-06-18,transfer,2000000
-6448,607,2019-06-18,card,2500000
-1873,608,2019-06-18,transfer,1500000
-5511,609,2019-06-18,card,1000000
-3598,610,2019-06-19,transfer,500000
-1983,611,2019-06-18,card,15000
-1349,614,2019-06-18,transfer,14000
-5457,615,2019-06-19,card,7300000
-5482,616,2019-06-19,transfer,300000
-6622,617,2019-06-19,card,60000
-5495,619,2019-06-19,transfer,500000
-5677,620,2019-06-19,card,500000
-3415,622,2019-06-19,transfer,5000
-145,624,2019-06-19,card,5000
-2965,628,2019-06-20,transfer,170000
-5790,630,2019-06-20,card,300000
-992,634,2019-06-20,transfer,20000
-241,636,2019-06-20,card,11000
-5539,637,2019-06-20,transfer,150000
-3914,638,2019-06-20,card,20000
-3564,639,2019-06-21,transfer,150000
-3221,641,2019-06-21,card,200
-2248,643,2019-06-21,transfer,5000
-5511,644,2019-06-21,card,50000
-1011,645,2019-06-21,transfer,20000
-726,647,2019-06-21,card,200000
-1452,648,2019-06-24,transfer,50000
-6448,650,2019-06-21,card,500000
-1876,651,2019-06-21,transfer,10000
-1920,652,2019-06-21,card,5000
-3274,653,2019-06-21,transfer,450000
-7722,656,2019-06-24,card,150000
-3071,659,2019-06-24,transfer,20000
-4473,660,2019-06-24,card,20000
-1268,662,2019-06-24,transfer,5000
-1938,664,2019-06-24,card,350000
-5565,668,2019-06-24,transfer,100000
-1011,670,2019-06-24,card,20000
-3967,671,2019-06-24,transfer,5000
-5454,672,2019-06-24,card,100000
-3458,676,2019-06-24,transfer,500000
-2417,677,2019-06-24,card,560000
-2331,678,2019-06-24,transfer,250000
-2965,679,2019-06-25,card,30000
-3452,680,2019-06-24,transfer,40000
-1452,683,2019-06-25,card,50000
-4762,685,2019-06-25,transfer,200000
-3506,687,2019-06-26,card,60000
-8391,689,2019-06-25,transfer,2000000
-3452,690,2019-06-25,card,40000
-5457,691,2019-06-25,transfer,470000
-2135,693,2019-06-26,card,10000
-3298,694,2019-06-26,transfer,6050
-3298,695,2019-06-26,card,1500
-3298,697,2019-06-26,transfer,2450
-3278,698,2019-06-26,card,250000
-1486,699,2019-06-26,transfer,15000
-4001,700,2019-06-26,card,600000
-2052,701,2019-06-26,transfer,24000
-181,702,2019-06-26,card,1600
-3503,705,2019-06-26,transfer,1800000
-5454,706,2019-06-27,card,25000
-8088,707,2019-06-26,transfer,1000000
-1011,709,2019-06-27,card,20000
-8719,711,2019-06-27,transfer,100000
-2044,713,2019-06-27,card,35000
-1987,714,2019-06-27,transfer,75000
-1011,715,2019-06-27,card,140000
-8976,716,2019-06-27,transfer,3000000
-1013,719,2019-06-27,card,25000
-3458,721,2019-06-27,transfer,3000000
-2352,722,2019-06-28,card,200000
-2150,723,2019-06-28,transfer,8000
-2430,725,2019-06-28,card,500000
-8075,727,2019-06-28,transfer,10000
-3745,728,2019-06-28,card,10000
-250,729,2019-06-28,transfer,37500
-9290,730,2019-06-28,card,70000
-726,731,2019-06-28,transfer,600000
+account_id,transaction_id,payload,transaction_date,transaction_type,amount
+520,27,"{""transaction_type"": ""transfer"", ""amount"": ""20000""}",2019-04-01,transfer,20000
+482,28,"{""transaction_type"": ""card"", ""amount"": ""75000""}",2019-04-01,card,75000
+241,30,"{""transaction_type"": ""transfer"", ""amount"": ""15000""}",2019-04-02,transfer,15000
+297,31,"{""transaction_type"": ""card"", ""amount"": ""10000""}",2019-04-02,card,10000
+145,32,"{""transaction_type"": ""transfer"", ""amount"": ""10000""}",2019-04-03,transfer,10000
+181,33,"{""transaction_type"": ""card"", ""amount"": ""5000""}",2019-04-04,card,5000
+347,34,"{""transaction_type"": ""transfer"", ""amount"": ""47000""}",2019-04-04,transfer,47000
+222,36,"{""transaction_type"": ""card"", ""amount"": ""11000""}",2019-04-05,card,11000
+246,37,"{""transaction_type"": ""transfer"", ""amount"": ""30000""}",2019-04-10,transfer,30000
+565,38,"{""transaction_type"": ""card"", ""amount"": ""75000""}",2019-04-11,card,75000
+579,40,"{""transaction_type"": ""transfer"", ""amount"": ""50000""}",2019-04-12,transfer,50000
+543,41,"{""transaction_type"": ""card"", ""amount"": ""60000""}",2019-04-12,card,60000
+214,42,"{""transaction_type"": ""transfer"", ""amount"": ""35000""}",2019-04-12,transfer,35000
+210,43,"{""transaction_type"": ""card"", ""amount"": ""3000""}",2019-04-12,card,3000
+210,44,"{""transaction_type"": ""transfer"", ""amount"": ""4000""}",2019-04-12,transfer,4000
+241,45,"{""transaction_type"": ""card"", ""amount"": ""10000""}",2019-04-15,card,10000
+363,47,"{""transaction_type"": ""transfer"", ""amount"": ""50000""}",2019-04-15,transfer,50000
+562,49,"{""transaction_type"": ""card"", ""amount"": ""10000""}",2019-04-15,card,10000
+564,51,"{""transaction_type"": ""transfer"", ""amount"": ""15000""}",2019-04-17,transfer,15000
+278,52,"{""transaction_type"": ""card"", ""amount"": ""30000""}",2019-04-17,card,30000
+561,53,"{""transaction_type"": ""transfer"", ""amount"": ""30000""}",2019-04-17,transfer,30000
+688,54,"{""transaction_type"": ""card"", ""amount"": ""50000""}",2019-04-17,card,50000
+225,55,"{""transaction_type"": ""transfer"", ""amount"": ""50000""}",2019-04-18,transfer,50000
+726,57,"{""transaction_type"": ""card"", ""amount"": ""2000""}",2019-04-22,card,2000
+1067,58,"{""transaction_type"": ""transfer"", ""amount"": ""30000""}",2019-04-22,transfer,30000
+935,59,"{""transaction_type"": ""card"", ""amount"": ""50000""}",2019-04-23,card,50000
+726,61,"{""transaction_type"": ""transfer"", ""amount"": ""600""}",2019-04-23,transfer,600
+278,62,"{""transaction_type"": ""card"", ""amount"": ""10000""}",2019-04-23,card,10000
+740,63,"{""transaction_type"": ""transfer"", ""amount"": ""40000""}",2019-04-23,transfer,40000
+210,66,"{""transaction_type"": ""card"", ""amount"": ""3000""}",2019-04-23,card,3000
+944,67,"{""transaction_type"": ""transfer"", ""amount"": ""15000""}",2019-04-23,transfer,15000
+827,68,"{""transaction_type"": ""card"", ""amount"": ""30000""}",2019-04-23,card,30000
+564,69,"{""transaction_type"": ""transfer"", ""amount"": ""15000""}",2019-04-24,transfer,15000
+726,70,"{""transaction_type"": ""card"", ""amount"": ""20000""}",2019-04-24,card,20000
+222,75,"{""transaction_type"": ""transfer"", ""amount"": ""48974""}",2019-04-25,transfer,48974
+1220,76,"{""transaction_type"": ""card"", ""amount"": ""10000""}",2019-04-25,card,10000
+1137,79,"{""transaction_type"": ""transfer"", ""amount"": ""15000""}",2019-04-25,transfer,15000
+1079,81,"{""transaction_type"": ""card"", ""amount"": ""15000""}",2019-04-26,card,15000
+1087,83,"{""transaction_type"": ""transfer"", ""amount"": ""400000""}",2019-04-29,transfer,400000
+726,85,"{""transaction_type"": ""card"", ""amount"": ""1000""}",2019-04-29,card,1000
+411,86,"{""transaction_type"": ""transfer"", ""amount"": ""30000""}",2019-04-29,transfer,30000
+941,88,"{""transaction_type"": ""card"", ""amount"": ""6000""}",2019-04-29,card,6000
+1020,89,"{""transaction_type"": ""transfer"", ""amount"": ""1400""}",2019-04-29,transfer,1400
+1137,91,"{""transaction_type"": ""card"", ""amount"": ""15000""}",2019-04-30,card,15000
+1074,93,"{""transaction_type"": ""transfer"", ""amount"": ""50000""}",2019-04-30,transfer,50000
+1027,97,"{""transaction_type"": ""card"", ""amount"": ""400000""}",2019-05-02,card,400000
+1289,99,"{""transaction_type"": ""transfer"", ""amount"": ""350000""}",2019-05-02,transfer,350000
+1143,100,"{""transaction_type"": ""card"", ""amount"": ""350000""}",2019-05-02,card,350000
+1349,104,"{""transaction_type"": ""transfer"", ""amount"": ""36000""}",2019-05-02,transfer,36000
+1080,105,"{""transaction_type"": ""card"", ""amount"": ""300000""}",2019-05-02,card,300000
+1330,106,"{""transaction_type"": ""transfer"", ""amount"": ""15000""}",2019-05-02,transfer,15000
+877,107,"{""transaction_type"": ""card"", ""amount"": ""25000""}",2019-05-03,card,25000
+1534,108,"{""transaction_type"": ""transfer"", ""amount"": ""75000""}",2019-05-03,transfer,75000
+236,109,"{""transaction_type"": ""card"", ""amount"": ""500""}",2019-05-03,card,500
+1156,110,"{""transaction_type"": ""transfer"", ""amount"": ""2500""}",2019-05-06,transfer,2500
+1220,111,"{""transaction_type"": ""card"", ""amount"": ""10000""}",2019-05-06,card,10000
+1234,112,"{""transaction_type"": ""transfer"", ""amount"": ""3000""}",2019-05-06,transfer,3000
+1546,114,"{""transaction_type"": ""card"", ""amount"": ""50000""}",2019-05-07,card,50000
+1349,116,"{""transaction_type"": ""transfer"", ""amount"": ""25000""}",2019-05-08,transfer,25000
+1161,117,"{""transaction_type"": ""card"", ""amount"": ""10000""}",2019-05-08,card,10000
+162,369,"{""transaction_type"": ""transfer"", ""amount"": ""7000""}",2019-04-08,transfer,7000
+2177,437,"{""transaction_type"": ""card"", ""amount"": ""30000""}",2019-04-04,card,30000
+1334,440,"{""transaction_type"": ""transfer"", ""amount"": ""10000""}",2019-05-08,transfer,10000
+531,441,"{""transaction_type"": ""card"", ""amount"": ""20000""}",2019-05-08,card,20000
+1161,442,"{""transaction_type"": ""transfer"", ""amount"": ""25000""}",2019-05-09,transfer,25000
+1407,443,"{""transaction_type"": ""card"", ""amount"": ""30000""}",2019-05-09,card,30000
+1234,445,"{""transaction_type"": ""transfer"", ""amount"": ""27000""}",2019-05-10,transfer,27000
+1863,446,"{""transaction_type"": ""card"", ""amount"": ""30000""}",2019-05-10,card,30000
+1494,447,"{""transaction_type"": ""transfer"", ""amount"": ""400000""}",2019-05-13,transfer,400000
+2248,448,"{""transaction_type"": ""card"", ""amount"": ""3200""}",2019-05-10,card,3200
+1600,450,"{""transaction_type"": ""transfer"", ""amount"": ""20000""}",2019-05-13,transfer,20000
+278,451,"{""transaction_type"": ""card"", ""amount"": ""20000""}",2019-05-13,card,20000
+1876,452,"{""transaction_type"": ""transfer"", ""amount"": ""20000""}",2019-05-13,transfer,20000
+2075,453,"{""transaction_type"": ""card"", ""amount"": ""60000""}",2019-05-13,card,60000
+1294,454,"{""transaction_type"": ""transfer"", ""amount"": ""20000""}",2019-05-13,transfer,20000
+1804,455,"{""transaction_type"": ""card"", ""amount"": ""1500""}",2019-05-13,card,1500
+1491,456,"{""transaction_type"": ""transfer"", ""amount"": ""50000""}",2019-05-14,transfer,50000
+467,457,"{""transaction_type"": ""card"", ""amount"": ""60000""}",2019-05-14,card,60000
+726,458,"{""transaction_type"": ""transfer"", ""amount"": ""20000""}",2019-05-14,transfer,20000
+161,459,"{""transaction_type"": ""card"", ""amount"": ""12000""}",2019-05-14,card,12000
+828,460,"{""transaction_type"": ""transfer"", ""amount"": ""30000""}",2019-05-14,transfer,30000
+1600,461,"{""transaction_type"": ""card"", ""amount"": ""20000""}",2019-05-15,card,20000
+1334,462,"{""transaction_type"": ""transfer"", ""amount"": ""5000""}",2019-05-15,transfer,5000
+1632,463,"{""transaction_type"": ""card"", ""amount"": ""100000""}",2019-05-15,card,100000
+2104,464,"{""transaction_type"": ""transfer"", ""amount"": ""15000""}",2019-05-15,transfer,15000
+1040,465,"{""transaction_type"": ""card"", ""amount"": ""3000""}",2019-05-15,card,3000
+2075,466,"{""transaction_type"": ""transfer"", ""amount"": ""30000""}",2019-05-16,transfer,30000
+2248,467,"{""transaction_type"": ""card"", ""amount"": ""1800""}",2019-05-16,card,1800
+1920,468,"{""transaction_type"": ""transfer"", ""amount"": ""10000""}",2019-05-16,transfer,10000
+1876,469,"{""transaction_type"": ""card"", ""amount"": ""10000""}",2019-05-16,card,10000
+2440,470,"{""transaction_type"": ""transfer"", ""amount"": ""50000""}",2019-05-16,transfer,50000
+389,471,"{""transaction_type"": ""card"", ""amount"": ""75000""}",2019-05-16,card,75000
+2382,473,"{""transaction_type"": ""transfer"", ""amount"": ""40000""}",2019-05-17,transfer,40000
+216,474,"{""transaction_type"": ""card"", ""amount"": ""75000""}",2019-05-17,card,75000
+1020,476,"{""transaction_type"": ""transfer"", ""amount"": ""70000""}",2019-05-17,transfer,70000
+1876,481,"{""transaction_type"": ""card"", ""amount"": ""50000""}",2019-05-21,card,50000
+2692,484,"{""transaction_type"": ""transfer"", ""amount"": ""25000""}",2019-05-22,transfer,25000
+2621,485,"{""transaction_type"": ""card"", ""amount"": ""5500""}",2019-05-22,card,5500
+2344,486,"{""transaction_type"": ""transfer"", ""amount"": ""65000""}",2019-05-22,transfer,65000
+2857,487,"{""transaction_type"": ""card"", ""amount"": ""50000""}",2019-05-24,card,50000
+990,488,"{""transaction_type"": ""transfer"", ""amount"": ""5000""}",2019-05-27,transfer,5000
+2219,489,"{""transaction_type"": ""card"", ""amount"": ""50000""}",2019-05-27,card,50000
+1659,491,"{""transaction_type"": ""transfer"", ""amount"": ""5000""}",2019-05-27,transfer,5000
+1126,492,"{""transaction_type"": ""card"", ""amount"": ""4000""}",2019-05-27,card,4000
+2430,495,"{""transaction_type"": ""transfer"", ""amount"": ""25000""}",2019-05-27,transfer,25000
+2049,496,"{""transaction_type"": ""card"", ""amount"": ""20000""}",2019-05-27,card,20000
+562,497,"{""transaction_type"": ""transfer"", ""amount"": ""45000""}",2019-05-27,transfer,45000
+1920,499,"{""transaction_type"": ""card"", ""amount"": ""10000""}",2019-05-27,card,10000
+1923,501,"{""transaction_type"": ""transfer"", ""amount"": ""5000""}",2019-05-27,transfer,5000
+1294,504,"{""transaction_type"": ""card"", ""amount"": ""10000""}",2019-05-28,card,10000
+726,505,"{""transaction_type"": ""transfer"", ""amount"": ""100000""}",2019-05-28,transfer,100000
+2516,506,"{""transaction_type"": ""card"", ""amount"": ""14000""}",2019-05-28,card,14000
+2258,507,"{""transaction_type"": ""transfer"", ""amount"": ""125000""}",2019-05-28,transfer,125000
+820,508,"{""transaction_type"": ""card"", ""amount"": ""35000""}",2019-05-28,card,35000
+2890,509,"{""transaction_type"": ""transfer"", ""amount"": ""500000""}",2019-05-29,transfer,500000
+1857,512,"{""transaction_type"": ""card"", ""amount"": ""5000""}",2019-05-29,card,5000
+2941,513,"{""transaction_type"": ""transfer"", ""amount"": ""50000""}",2019-05-29,transfer,50000
+3250,514,"{""transaction_type"": ""card"", ""amount"": ""300000""}",2019-05-30,card,300000
+2153,516,"{""transaction_type"": ""transfer"", ""amount"": ""10000""}",2019-05-30,transfer,10000
+2890,517,"{""transaction_type"": ""card"", ""amount"": ""55000""}",2019-05-29,card,55000
+2600,518,"{""transaction_type"": ""transfer"", ""amount"": ""20000""}",2019-05-30,transfer,20000
+2584,521,"{""transaction_type"": ""card"", ""amount"": ""150000""}",2019-05-30,card,150000
+2516,522,"{""transaction_type"": ""transfer"", ""amount"": ""3000000""}",2019-05-31,transfer,3000000
+3225,525,"{""transaction_type"": ""card"", ""amount"": ""5000000""}",2019-05-31,card,5000000
+2886,526,"{""transaction_type"": ""transfer"", ""amount"": ""80000""}",2019-05-31,transfer,80000
+559,527,"{""transaction_type"": ""card"", ""amount"": ""6000""}",2019-05-31,card,6000
+3225,531,"{""transaction_type"": ""transfer"", ""amount"": ""550000""}",2019-06-03,transfer,550000
+2890,532,"{""transaction_type"": ""card"", ""amount"": ""95000""}",2019-06-03,card,95000
+2258,534,"{""transaction_type"": ""transfer"", ""amount"": ""200000""}",2019-06-03,transfer,200000
+3004,537,"{""transaction_type"": ""card"", ""amount"": ""450000""}",2019-06-04,card,450000
+577,540,"{""transaction_type"": ""transfer"", ""amount"": ""20000""}",2019-06-04,transfer,20000
+2996,541,"{""transaction_type"": ""card"", ""amount"": ""40000""}",2019-06-04,card,40000
+499,547,"{""transaction_type"": ""transfer"", ""amount"": ""50000""}",2019-06-07,transfer,50000
+1745,549,"{""transaction_type"": ""card"", ""amount"": ""5000""}",2019-06-07,card,5000
+3453,552,"{""transaction_type"": ""transfer"", ""amount"": ""15000""}",2019-06-10,transfer,15000
+2175,553,"{""transaction_type"": ""card"", ""amount"": ""18000""}",2019-06-10,card,18000
+3427,554,"{""transaction_type"": ""transfer"", ""amount"": ""40000""}",2019-06-10,transfer,40000
+2733,555,"{""transaction_type"": ""card"", ""amount"": ""16000""}",2019-06-10,card,16000
+3458,557,"{""transaction_type"": ""transfer"", ""amount"": ""100000""}",2019-06-11,transfer,100000
+4451,559,"{""transaction_type"": ""card"", ""amount"": ""80000""}",2019-06-11,card,80000
+3376,560,"{""transaction_type"": ""transfer"", ""amount"": ""50000""}",2019-06-11,transfer,50000
+3967,561,"{""transaction_type"": ""card"", ""amount"": ""8000""}",2019-06-11,card,8000
+1775,562,"{""transaction_type"": ""transfer"", ""amount"": ""200000""}",2019-06-12,transfer,200000
+3548,563,"{""transaction_type"": ""card"", ""amount"": ""200000""}",2019-06-12,card,200000
+2530,567,"{""transaction_type"": ""transfer"", ""amount"": ""70000""}",2019-06-12,transfer,70000
+3134,569,"{""transaction_type"": ""card"", ""amount"": ""150000""}",2019-06-12,card,150000
+3296,570,"{""transaction_type"": ""transfer"", ""amount"": ""40000""}",2019-06-13,transfer,40000
+3958,572,"{""transaction_type"": ""card"", ""amount"": ""30000""}",2019-06-13,card,30000
+3678,573,"{""transaction_type"": ""transfer"", ""amount"": ""5000""}",2019-06-13,transfer,5000
+2851,575,"{""transaction_type"": ""card"", ""amount"": ""50000""}",2019-06-13,card,50000
+4314,576,"{""transaction_type"": ""transfer"", ""amount"": ""125000""}",2019-06-14,transfer,125000
+3737,579,"{""transaction_type"": ""card"", ""amount"": ""700000""}",2019-06-14,card,700000
+3006,580,"{""transaction_type"": ""transfer"", ""amount"": ""7500""}",2019-06-14,transfer,7500
+2927,581,"{""transaction_type"": ""card"", ""amount"": ""10500""}",2019-06-14,card,10500
+3262,582,"{""transaction_type"": ""transfer"", ""amount"": ""40000""}",2019-06-14,transfer,40000
+2116,584,"{""transaction_type"": ""card"", ""amount"": ""30000""}",2019-06-14,card,30000
+2278,585,"{""transaction_type"": ""transfer"", ""amount"": ""100000""}",2019-06-17,transfer,100000
+2278,586,"{""transaction_type"": ""card"", ""amount"": ""100000""}",2019-06-17,card,100000
+4430,591,"{""transaction_type"": ""transfer"", ""amount"": ""1200000""}",2019-06-17,transfer,1200000
+4973,593,"{""transaction_type"": ""card"", ""amount"": ""1000000""}",2019-06-17,card,1000000
+3180,595,"{""transaction_type"": ""transfer"", ""amount"": ""2500000""}",2019-06-17,transfer,2500000
+2116,596,"{""transaction_type"": ""card"", ""amount"": ""50000""}",2019-06-17,card,50000
+1294,597,"{""transaction_type"": ""transfer"", ""amount"": ""10000""}",2019-06-17,transfer,10000
+3967,598,"{""transaction_type"": ""card"", ""amount"": ""4000""}",2019-06-17,card,4000
+6566,599,"{""transaction_type"": ""transfer"", ""amount"": ""1200000""}",2019-06-17,transfer,1200000
+1031,600,"{""transaction_type"": ""card"", ""amount"": ""1500000""}",2019-06-17,card,1500000
+1636,601,"{""transaction_type"": ""transfer"", ""amount"": ""50000""}",2019-06-17,transfer,50000
+5307,602,"{""transaction_type"": ""card"", ""amount"": ""1500000""}",2019-06-17,card,1500000
+3458,603,"{""transaction_type"": ""transfer"", ""amount"": ""2000000""}",2019-06-17,transfer,2000000
+2623,605,"{""transaction_type"": ""card"", ""amount"": ""2100000""}",2019-06-18,card,2100000
+5565,606,"{""transaction_type"": ""transfer"", ""amount"": ""2000000""}",2019-06-18,transfer,2000000
+6448,607,"{""transaction_type"": ""card"", ""amount"": ""2500000""}",2019-06-18,card,2500000
+1873,608,"{""transaction_type"": ""transfer"", ""amount"": ""1500000""}",2019-06-18,transfer,1500000
+5511,609,"{""transaction_type"": ""card"", ""amount"": ""1000000""}",2019-06-18,card,1000000
+3598,610,"{""transaction_type"": ""transfer"", ""amount"": ""500000""}",2019-06-19,transfer,500000
+1983,611,"{""transaction_type"": ""card"", ""amount"": ""15000""}",2019-06-18,card,15000
+1349,614,"{""transaction_type"": ""transfer"", ""amount"": ""14000""}",2019-06-18,transfer,14000
+5457,615,"{""transaction_type"": ""card"", ""amount"": ""7300000""}",2019-06-19,card,7300000
+5482,616,"{""transaction_type"": ""transfer"", ""amount"": ""300000""}",2019-06-19,transfer,300000
+6622,617,"{""transaction_type"": ""card"", ""amount"": ""60000""}",2019-06-19,card,60000
+5495,619,"{""transaction_type"": ""transfer"", ""amount"": ""500000""}",2019-06-19,transfer,500000
+5677,620,"{""transaction_type"": ""card"", ""amount"": ""500000""}",2019-06-19,card,500000
+3415,622,"{""transaction_type"": ""transfer"", ""amount"": ""5000""}",2019-06-19,transfer,5000
+145,624,"{""transaction_type"": ""card"", ""amount"": ""5000""}",2019-06-19,card,5000
+2965,628,"{""transaction_type"": ""transfer"", ""amount"": ""170000""}",2019-06-20,transfer,170000
+5790,630,"{""transaction_type"": ""card"", ""amount"": ""300000""}",2019-06-20,card,300000
+992,634,"{""transaction_type"": ""transfer"", ""amount"": ""20000""}",2019-06-20,transfer,20000
+241,636,"{""transaction_type"": ""card"", ""amount"": ""11000""}",2019-06-20,card,11000
+5539,637,"{""transaction_type"": ""transfer"", ""amount"": ""150000""}",2019-06-20,transfer,150000
+3914,638,"{""transaction_type"": ""card"", ""amount"": ""20000""}",2019-06-20,card,20000
+3564,639,"{""transaction_type"": ""transfer"", ""amount"": ""150000""}",2019-06-21,transfer,150000
+3221,641,"{""transaction_type"": ""card"", ""amount"": ""200""}",2019-06-21,card,200
+2248,643,"{""transaction_type"": ""transfer"", ""amount"": ""5000""}",2019-06-21,transfer,5000
+5511,644,"{""transaction_type"": ""card"", ""amount"": ""50000""}",2019-06-21,card,50000
+1011,645,"{""transaction_type"": ""transfer"", ""amount"": ""20000""}",2019-06-21,transfer,20000
+726,647,"{""transaction_type"": ""card"", ""amount"": ""200000""}",2019-06-21,card,200000
+1452,648,"{""transaction_type"": ""transfer"", ""amount"": ""50000""}",2019-06-24,transfer,50000
+6448,650,"{""transaction_type"": ""card"", ""amount"": ""500000""}",2019-06-21,card,500000
+1876,651,"{""transaction_type"": ""transfer"", ""amount"": ""10000""}",2019-06-21,transfer,10000
+1920,652,"{""transaction_type"": ""card"", ""amount"": ""5000""}",2019-06-21,card,5000
+3274,653,"{""transaction_type"": ""transfer"", ""amount"": ""450000""}",2019-06-21,transfer,450000
+7722,656,"{""transaction_type"": ""card"", ""amount"": ""150000""}",2019-06-24,card,150000
+3071,659,"{""transaction_type"": ""transfer"", ""amount"": ""20000""}",2019-06-24,transfer,20000
+4473,660,"{""transaction_type"": ""card"", ""amount"": ""20000""}",2019-06-24,card,20000
+1268,662,"{""transaction_type"": ""transfer"", ""amount"": ""5000""}",2019-06-24,transfer,5000
+1938,664,"{""transaction_type"": ""card"", ""amount"": ""350000""}",2019-06-24,card,350000
+5565,668,"{""transaction_type"": ""transfer"", ""amount"": ""100000""}",2019-06-24,transfer,100000
+1011,670,"{""transaction_type"": ""card"", ""amount"": ""20000""}",2019-06-24,card,20000
+3967,671,"{""transaction_type"": ""transfer"", ""amount"": ""5000""}",2019-06-24,transfer,5000
+5454,672,"{""transaction_type"": ""card"", ""amount"": ""100000""}",2019-06-24,card,100000
+3458,676,"{""transaction_type"": ""transfer"", ""amount"": ""500000""}",2019-06-24,transfer,500000
+2417,677,"{""transaction_type"": ""card"", ""amount"": ""560000""}",2019-06-24,card,560000
+2331,678,"{""transaction_type"": ""transfer"", ""amount"": ""250000""}",2019-06-24,transfer,250000
+2965,679,"{""transaction_type"": ""card"", ""amount"": ""30000""}",2019-06-25,card,30000
+3452,680,"{""transaction_type"": ""transfer"", ""amount"": ""40000""}",2019-06-24,transfer,40000
+1452,683,"{""transaction_type"": ""card"", ""amount"": ""50000""}",2019-06-25,card,50000
+4762,685,"{""transaction_type"": ""transfer"", ""amount"": ""200000""}",2019-06-25,transfer,200000
+3506,687,"{""transaction_type"": ""card"", ""amount"": ""60000""}",2019-06-26,card,60000
+8391,689,"{""transaction_type"": ""transfer"", ""amount"": ""2000000""}",2019-06-25,transfer,2000000
+3452,690,"{""transaction_type"": ""card"", ""amount"": ""40000""}",2019-06-25,card,40000
+5457,691,"{""transaction_type"": ""transfer"", ""amount"": ""470000""}",2019-06-25,transfer,470000
+2135,693,"{""transaction_type"": ""card"", ""amount"": ""10000""}",2019-06-26,card,10000
+3298,694,"{""transaction_type"": ""transfer"", ""amount"": ""6050""}",2019-06-26,transfer,6050
+3298,695,"{""transaction_type"": ""card"", ""amount"": ""1500""}",2019-06-26,card,1500
+3298,697,"{""transaction_type"": ""transfer"", ""amount"": ""2450""}",2019-06-26,transfer,2450
+3278,698,"{""transaction_type"": ""card"", ""amount"": ""250000""}",2019-06-26,card,250000
+1486,699,"{""transaction_type"": ""transfer"", ""amount"": ""15000""}",2019-06-26,transfer,15000
+4001,700,"{""transaction_type"": ""card"", ""amount"": ""600000""}",2019-06-26,card,600000
+2052,701,"{""transaction_type"": ""transfer"", ""amount"": ""24000""}",2019-06-26,transfer,24000
+181,702,"{""transaction_type"": ""card"", ""amount"": ""1600""}",2019-06-26,card,1600
+3503,705,"{""transaction_type"": ""transfer"", ""amount"": ""1800000""}",2019-06-26,transfer,1800000
+5454,706,"{""transaction_type"": ""card"", ""amount"": ""25000""}",2019-06-27,card,25000
+8088,707,"{""transaction_type"": ""transfer"", ""amount"": ""1000000""}",2019-06-26,transfer,1000000
+1011,709,"{""transaction_type"": ""card"", ""amount"": ""20000""}",2019-06-27,card,20000
+8719,711,"{""transaction_type"": ""transfer"", ""amount"": ""100000""}",2019-06-27,transfer,100000
+2044,713,"{""transaction_type"": ""card"", ""amount"": ""35000""}",2019-06-27,card,35000
+1987,714,"{""transaction_type"": ""transfer"", ""amount"": ""75000""}",2019-06-27,transfer,75000
+1011,715,"{""transaction_type"": ""card"", ""amount"": ""140000""}",2019-06-27,card,140000
+8976,716,"{""transaction_type"": ""transfer"", ""amount"": ""3000000""}",2019-06-27,transfer,3000000
+1013,719,"{""transaction_type"": ""card"", ""amount"": ""25000""}",2019-06-27,card,25000
+3458,721,"{""transaction_type"": ""transfer"", ""amount"": ""3000000""}",2019-06-27,transfer,3000000
+2352,722,"{""transaction_type"": ""card"", ""amount"": ""200000""}",2019-06-28,card,200000
+2150,723,"{""transaction_type"": ""transfer"", ""amount"": ""8000""}",2019-06-28,transfer,8000
+2430,725,"{""transaction_type"": ""card"", ""amount"": ""500000""}",2019-06-28,card,500000
+8075,727,"{""transaction_type"": ""transfer"", ""amount"": ""10000""}",2019-06-28,transfer,10000
+3745,728,"{""transaction_type"": ""card"", ""amount"": ""10000""}",2019-06-28,card,10000
+250,729,"{""transaction_type"": ""transfer"", ""amount"": ""37500""}",2019-06-28,transfer,37500
+9290,730,"{""transaction_type"": ""card"", ""amount"": ""70000""}",2019-06-28,card,70000
+726,731,"{""transaction_type"": ""transfer"", ""amount"": ""600000""}",2019-06-28,transfer,600000

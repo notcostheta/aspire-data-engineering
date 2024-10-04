@@ -156,7 +156,7 @@ def main():
             transaction_tab["payload"].apply(parse_json_payload).tolist()
         )
         # Remove the original 'payload' column
-        transaction_tab = transaction_tab.drop(columns=["payload"])
+        # transaction_tab = transaction_tab.drop(columns=["payload"])
         save_to_csv(transaction_tab, data_path / "transaction_tab.csv")
 
     # Load the data for analysis
